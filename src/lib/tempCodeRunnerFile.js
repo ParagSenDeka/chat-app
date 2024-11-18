@@ -1,0 +1,1 @@
+authDomain: "reactchat-493ed.firebaseapp.com"
